@@ -10,6 +10,7 @@ public class Soru01 {
 		*/   
 
 		System.out.println("A L i");
+		System.out.println("A L i");
 		
 	}
 
